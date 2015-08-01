@@ -1,6 +1,6 @@
 > 在页面上阅读小字版：[http://sofish.github.com/express-guide/](http://sofish.github.com/express-guide/)
 >
-> 在页面上阅读大字版：[http://shrekuu.github.com/express-guide/](http://sofish.github.com/express-guide/)
+> 在页面上阅读大字版：[http://shrekuu.github.com/express-guide/](http://shrekuu.github.com/express-guide/)
 >
 > 大字版也换上了更舒服的字体, 保护眼睛. 英文为 monaco 字体, 中文 Hiragino Sans GB.  💁 🙅 🙆 🙋
 
