@@ -308,7 +308,9 @@ var app = express.createServer(
   );
 ```
 
-另外，在 `configure()` 块内 —— 这个渐进式的宫殿（译注：笑^^，in a progressive manner），我们还可以方便地使用 `use()` 来添加中间件。
+我们也可以以一种渐进的（设置）方式在 `configure()` 块内使用 `use()` 来添加中间件。
+
+
 
 ```js
 app.use(express.logger({ format: ':method :url' }));
